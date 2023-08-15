@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="snackbarBorderColor">#3FCA8B</color>
+    <color name="snackbarActionLabelColor">#D61A1A</color>
+    <color name="snackbarContainerColor">#0C94EF</color>
+    <color name="boxBackgroundColor">#EC445E</color>
+</resources>
