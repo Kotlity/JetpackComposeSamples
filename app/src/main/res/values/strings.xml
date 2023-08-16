@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TopAppBar</string>
+    <string name="topAppBarTitle">Custom TopAppBar</string>
+</resources>
